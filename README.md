@@ -1,5 +1,5 @@
 # Getting-Started-With-Spring-Boot
-Details of the course I followed can be found at: https://amigoscode.com/p/spring-boot
+Details of the course I followed can be found at: https://amigoscode.com/p/spring-data-jpa
 <br>
 ## What the course includes
 The course teaches a wide range of topics to know for Spring Data JPA and goes over the following topics:
